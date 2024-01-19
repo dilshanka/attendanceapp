@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563166931943",
+    "project_id": "testcli-c465f",
+    "storage_bucket": "testcli-c465f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563166931943:android:42aae8adea603b12e56b42",
+        "android_client_info": {
+          "package_name": "com.example.testcli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB17UROfEUwv8Fl6SJ8cWpgQn8b857d8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
